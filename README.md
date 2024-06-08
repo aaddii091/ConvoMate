@@ -1,34 +1,26 @@
-# Skill Up Chatbot
+# ConvoMate
 
-Skill Up Chatbot is a real-time chat application built with Vue.js, Socket.io, and Node.js. Users can create/join rooms, suggest topics, and participate in quizzes powered by OpenAI API.
+ConvoMate is your conversational companion, designed to enhance and facilitate communication. It promises to be a trustworthy partner in fostering meaningful dialogues and enriching interactions.
 
 ## Features
 
-- Real-time chat functionality using Vue.js and Socket.io
-- Room creation and joining
-- Topic suggestion and selection
-- Quizzes with AI-generated questions from OpenAI API
-- Leaderboard for tracking user progress
-
-## Technologies Used
-
-- Vue.js
-- Socket.io
-- Node.js
-- OpenAI API
+- Facilitates seamless communication
+- Enhances conversations with advanced features
+- Promotes meaningful dialogues
+- Enriches interactions for users
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/skill-up-chatbot.git
+    git clone https://github.com/your-username/convomate.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd skill-up-chatbot
+    cd convomate
     ```
 
 3. **Install dependencies:**
@@ -37,22 +29,13 @@ Skill Up Chatbot is a real-time chat application built with Vue.js, Socket.io, a
     npm install
     ```
 
-4. **Set up environment variables:**
-
-   - Create a `.env` file in the root directory.
-   - Add your OpenAI API key:
-
-     ```
-     VITE_OPENAI_API_KEY=your_api_key_here
-     ```
-
-5. **Start the development server:**
+4. **Start the application:**
 
     ```bash
-    npm run dev
+    npm start
     ```
 
-6. **Visit** `http://localhost:3000` **in your web browser to access the application.**
+5. **Visit** `http://localhost:3000` **in your web browser to access ConvoMate.**
 
 ## Contributing
 
